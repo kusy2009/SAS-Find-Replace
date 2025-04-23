@@ -24,7 +24,7 @@ A Tkinter-based desktop application for finding and replacing text across multip
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kusy2009/SAS-Find-Replace.git
    cd sas-file-find-replace
    ```
 
