@@ -55,3 +55,6 @@ A Tkinter-based desktop application for finding and replacing text across multip
 
 7. Review the results and detailed change information
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
